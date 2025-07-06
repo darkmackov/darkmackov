@@ -22,7 +22,7 @@
         <img src="https://streak-stats.demolab.com?user=darkmackov&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td colspan="2">
         <h3 align="left">🛠 Languages and tools</h3>
         <div >
@@ -49,7 +49,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
         </div>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <!--
